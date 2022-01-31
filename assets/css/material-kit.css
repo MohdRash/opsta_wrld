@@ -27228,5 +27228,11 @@ pre[class*="language-"] {
     overflow: auto !important;
   }
 }
+.cardr{
+  height:25rem
+}
+.front-background{
+  height: 100%;
+}
 
 /*# sourceMappingURL=kit-free.css.map */
